@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.description = %q{iOS-style Checkboxes for Rails asset pipeline.}
 
   s.rubyforge_project = "ios-checkboxes"
-  s.add_dependency "railties", "~> 3.1"
+  #s.add_dependency "railties", "~> 3.1"
 
   s.files = `git ls-files`.split("\n")
 
